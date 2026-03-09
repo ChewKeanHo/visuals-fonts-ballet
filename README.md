@@ -172,8 +172,8 @@ Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-fonts-ballet
 UUID: DDD939FE-01C1-479E-B6D2-389941623C97
 License: SIL Open Font License (http://scripts.sil.org/OFL)
-Repository Made On: [PUBLISHED_DATE]
-Repository Made From: [WHERE]
+Repository Made On: 2026-03-09
+Repository Made From: Malaysia, South East Asia
 Procure: https://github.com/ChewKeanHo/visuals-fonts-ballet
 ```
 
