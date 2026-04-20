@@ -1,7 +1,11 @@
-Copyright 2026 (Holloway) Chew, Kean Ho <hello@chewkeanho.com>
-Copyright 2020 Omnibus-Type (www.omnibus-type.com) <omnibus.type@gmail.com>
-Copyright 2020 Maximiliano Sproviero (sproviero-type.com)
-Copyright 2020 Eduardo Tunni <info@tipo.net.ar>
+Copyright 2026 The Ballet Project Re-Distributors (https://github.com/ChewKeanHo/visuals-fonts-ballet)
+Copyright 2020 The Ballet Project Team (https://github.com/Omnibus-Type/Ballet)
+
+The above unified aliases have one or more actual legal entities listed outside
+of this document: (1) 'CREATORS.txt' or 'AUTHORS.txt'; and
+(2) 'CONTRIBUTORS.txt'. They are located usually placed next to this document
+in their respective project repository. Please refer to them for compiling the
+complete list accordingly.
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
